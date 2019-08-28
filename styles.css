@@ -1,0 +1,16 @@
+body {
+  background-color: hotpink;
+}
+h1 {
+  color: black; text-align: center;font-style: oblique; font-size: 50px;
+}
+
+ h2 {
+   color: blue; text-align: center; font-size: 40px; font-family: fantasy;
+ }
+ p {
+   font-size: 35px; font-family: fantasy;
+ }
+body {
+  text-align: center;
+}
